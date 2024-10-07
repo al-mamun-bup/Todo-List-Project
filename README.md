@@ -6,7 +6,7 @@ Welcome to the **ToDo List Application**! 🚀 This web-based app allows users t
 
 ## 📸 Project Preview
 
-![Todo List Preview]( https://al-mamun-bup.github.io/Todo-List-Project/)
+![Todo List Preview](https://al-mamun-bup.github.io/Todo-List-Project/)
 
 ---
 
